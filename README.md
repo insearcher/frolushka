@@ -1,8 +1,6 @@
 ### Currently working on:
-[<img align="left" alt="Revizto" width="24px" src="https://is1-ssl.mzstatic.com/image/thumb/Purple113/v4/c4/17/f1/c417f1e3-7bc9-7e96-60ca-850ae9e188ff/AppIcon-0-1x_U007emarketing-85-220-0-5.png/246x0w.png" />][revizto] Client-side of [Revizto][revizto] platform - C# developer
-<br />
-<img align="left" alt="Top Secret" width="24px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Noun_Project_question_mark_icon_1101884_cc.svg/1200px-Noun_Project_question_mark_icon_1101884_cc.svg.png" /> Spell casting arcade game - Main Unity developer
-<br />
+* Client-side of [Revizto][revizto] platform - C# developer
+* Spell casting arcade game - Main Unity developer
 
 ### Connect with me:
 [<img align="left" alt="VK" width="26px" src="https://image.flaticon.com/icons/svg/733/733639.svg" />][vk]
