@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### Languages and Tools:
+
+
+[<img align="left" alt="Unity" width="26px" src="https://icon-library.com/images/unity-icon/unity-icon-1.jpg" />]
+[<img align="left" alt="Unity" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />]
+
 <!--
 **frolushka/frolushka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
