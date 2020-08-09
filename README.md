@@ -9,11 +9,11 @@
 <br />
 
 ### Languages and Tools:
-<img align="left" alt="Unity" width="26px" src="https://icon-library.com/images/unity-icon/unity-icon-1.jpg" />
-<img align="left" alt="C#" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-<img align="left" alt="Rider" width="26px" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" />
+<img align="left" alt="Unity" width="26px" src="https://cdn0.iconfinder.com/data/icons/web-social-and-folder-icons/512/Unity_3D.png" />
+<img align="left" alt="C#" width="26px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
 <img align="left" alt="C" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" />
-<img align="left" alt="C++" width="26px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" />
+<img align="left" alt="C++" width="26px" src="https://cdn.worldvectorlogo.com/logos/c.svg" />
+<img align="left" alt="Rider" width="26px" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" />
 <img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 <br />
 
