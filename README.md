@@ -1,6 +1,8 @@
 ### Currently working on:
 * Client-side of [Revizto][revizto] platform - C# developer
-* Spell casting arcade game - Main Unity developer
+
+### Pet projects:
+* Telegram trading platform
 
 ### Languages and Tools:
 <img align="left" alt="Unity" width="26px" src="https://cdn0.iconfinder.com/data/icons/web-social-and-folder-icons/512/Unity_3D.png" />
