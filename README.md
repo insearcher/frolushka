@@ -19,17 +19,12 @@
 [<img align="left" alt="LinkedIn" width="26px" src="https://image.flaticon.com/icons/svg/1384/1384030.svg" />][linkedin]
 <br />
 
-### Useful links:
-* [My telegram storage][dotnet_books] of useful assets/materials (Unity/.NET)
-
 <!-- Bottom -->
 
 [vk]: https://vk.com/yafrolushka
 [telegram]: https://t.me/unknown_user17
 [linkedin]: https://www.linkedin.com/in/maxim-frolov-863177198/
 [revizto]: https://revizto.com/en/
-
-[dotnet_books]: https://t.me/dotnet_books
 
 <!--
 **frolushka/frolushka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
