@@ -1,5 +1,5 @@
 ### Currently working on:
-* Client-side of [Revizto][revizto] platform - C# developer
+* Survival game for Siridar LLC (client side developer)
 
 ### Pet projects:
 * Telegram trading platform
