@@ -19,6 +19,8 @@
 [<img align="left" alt="LinkedIn" width="26px" src="https://image.flaticon.com/icons/svg/1384/1384030.svg" />][linkedin]
 <br />
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frolushka)](https://github.com/anuraghazra/github-readme-stats)
+
 <!-- Bottom -->
 
 [vk]: https://vk.com/yafrolushka
