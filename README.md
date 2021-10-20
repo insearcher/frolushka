@@ -15,7 +15,7 @@
 
 ### Connect with me:
 [<img align="left" alt="VK" width="26px" src="https://image.flaticon.com/icons/svg/733/733639.svg" />][vk]
-[<img align="left" alt="Telegram" width="26px" src="https://image.flaticon.com/icons/svg/2111/2111708.svg" />][telegram]
+[<img align="left" alt="Telegram" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/telegram-1867901-1580057.png" />][telegram]
 [<img align="left" alt="LinkedIn" width="26px" src="https://image.flaticon.com/icons/svg/1384/1384030.svg" />][linkedin]
 <br />
 
@@ -24,7 +24,7 @@
 <!-- Bottom -->
 
 [vk]: https://vk.com/yafrolushka
-[telegram]: https://t.me/unknown_user17
+[telegram]: https://t.me/frolov.moscow
 [linkedin]: https://www.linkedin.com/in/maxim-frolov-863177198/
 [revizto]: https://revizto.com/en/
 
