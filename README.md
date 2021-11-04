@@ -22,7 +22,7 @@
 
 <!-- Bottom -->
 
-[vk]: https://vk.com/yafrolushka
+[vk]: https://vk.com/frolov.moscow
 [telegram]: https://t.me/frolov.moscow
 [linkedin]: https://www.linkedin.com/in/maxim-frolov-863177198/
 [revizto]: https://revizto.com/en/
