@@ -1,3 +1,5 @@
+21 school alumni, Unity senior developer
+
 ### Currently working on:
 * Survival game for Siridar LLC (client side developer)
 
