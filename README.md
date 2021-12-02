@@ -4,7 +4,7 @@
 * Survival game for Siridar LLC (client side developer)
 
 ### Pet projects:
-* Serious shit (gamedev studio)
+* https://www.ign.com/ign25thegame
 
 ### Languages and Tools:
 <img align="left" alt="Unity" width="26px" src="https://cdn0.iconfinder.com/data/icons/web-social-and-folder-icons/512/Unity_3D.png" />
