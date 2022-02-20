@@ -1,7 +1,7 @@
-21 school alumni, Unity senior developer
+21 school alumni, Lead Unity developer
 
 ### Currently working on:
-* Survival game for Siridar LLC (client side developer)
+* Survival game for Siridar LLC
 
 ### Pet projects:
 * https://www.ign.com/ign25thegame
@@ -15,19 +15,13 @@
 <br />
 
 ### Connect with me:
-[<img align="left" alt="VK" width="26px" src="https://image.flaticon.com/icons/svg/733/733639.svg" />][vk]
-[<img align="left" alt="Telegram" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/telegram-1867901-1580057.png" />][telegram]
-[<img align="left" alt="LinkedIn" width="26px" src="https://image.flaticon.com/icons/svg/1384/1384030.svg" />][linkedin]
-<br />
+https://t.me/frolov.moscow
+</br>
+https://www.linkedin.com/in/maxim-frolov-863177198/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frolushka&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Bottom -->
-
-[vk]: https://vk.com/frolov.moscow
-[telegram]: https://t.me/frolov.moscow
-[linkedin]: https://www.linkedin.com/in/maxim-frolov-863177198/
-[revizto]: https://revizto.com/en/
 
 <!--
 **frolushka/frolushka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
