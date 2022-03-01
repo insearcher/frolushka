@@ -17,7 +17,7 @@
 ### Connect with me:
 https://t.me/frolov.moscow
 </br>
-https://www.linkedin.com/in/maxim-frolov-863177198/
+https://www.linkedin.com/in/frolushka/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frolushka&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
