@@ -1,18 +1,7 @@
 21 school alumni, Lead Unity developer
 
-### Currently working on:
-* Survival game for Siridar LLC
-
 ### Pet projects:
 * https://www.ign.com/ign25thegame
-
-### Languages and Tools:
-<img align="left" alt="Unity" width="26px" src="https://cdn0.iconfinder.com/data/icons/web-social-and-folder-icons/512/Unity_3D.png" />
-<img align="left" alt="C#" width="26px" src="https://cdn.worldvectorlogo.com/logos/c--4.svg" />
-<img align="left" alt="C++" width="26px" src="https://cdn.worldvectorlogo.com/logos/c.svg" />
-<img align="left" alt="Rider" width="26px" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png" />
-<img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
-<br />
 
 ### Connect with me:
 https://t.me/frolov.moscow
