@@ -4,9 +4,9 @@
 * https://www.ign.com/ign25thegame
 
 ### Connect with me:
-https://t.me/frolov.moscow
+https://t.me/frolov.searching
 </br>
-https://www.linkedin.com/in/frolushka/
+https://www.linkedin.com/in/frolovsearching/
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frolushka&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
