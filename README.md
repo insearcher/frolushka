@@ -1,4 +1,4 @@
-21 school alumni, Lead Unity developer
+42 school alumni, Lead Unity developer
 
 ### Pet projects:
 * https://www.ign.com/ign25thegame
