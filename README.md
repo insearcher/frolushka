@@ -8,7 +8,7 @@ https://t.me/insearcher
 </br>
 https://www.linkedin.com/in/insearcher/
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frolushka&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=insearcher&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- Bottom -->
 
